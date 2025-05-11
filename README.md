@@ -1,4 +1,4 @@
-📦 Requirements
+📦 Requirements:
 Python
 
 pip install aiogram
